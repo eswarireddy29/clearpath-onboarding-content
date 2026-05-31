@@ -28,4 +28,4 @@ delivered annotated Figma handoff.
 Figma, Notion, Google Sheets
 
 ## Status
-🚧 Figma file in progress — link will be added soon
+https://www.figma.com/design/GScVR4XxZxh2ltTlS3Z3qz/Untitled?node-id=5-163&t=ZGSIVLZOo81UO6tO-1
